@@ -8,18 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD candidate in Economics at York University, Canada. My research fields are macroeconomics, economic development and growth. I will be on the job market in 2026-2027 and am open to any opportunities.
+I am a PhD candidate in Economics at York University. 
 
-My research studies [one sentence on your main topic and question]. I use [methods or data, for example "administrative data and causal inference methods"] to [what you learn or contribute].
+My research focuses on macroeconomic development and economic growth, particularly on how financial frictions and government policies shape resource allocation and aggregate productivity. Coming from a developing country, I am interested in understanding how these economies can achieve sustained growth by making better use of their existing resources. My work combines quantitative modeling, disciplined by micro-level data, with empirical analysis to study the productive potential of developing economies.
+
+I am on the 2026–27 job market and open to opportunities in academia and the public and private sectors.
 
 ## Job Market Paper
 
 **Size-dependent Subsidies and Financial Frictions: A Quantitative Analysis in Vietnam** 
-
-[Two or three sentences summarizing the question, the method, and the main finding.]
-
-## References
-
-- [Advisor name], [University], [email]
-- [Letter writer 2], [University], [email]
-- [Letter writer 3], [University], [email]
