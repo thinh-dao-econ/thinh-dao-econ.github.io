@@ -37,6 +37,8 @@
     "layout/sidebar"
 ;
 /* Sidebar photo: rectangle instead of circle */
+.author__avatar,
+img.author__avatar,
 .author__avatar img {
   border-radius: 0 !important;
   max-width: 100% !important;
