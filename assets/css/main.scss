@@ -36,3 +36,20 @@
     "layout/archive",
     "layout/sidebar"
 ;
+/* Sidebar photo: rectangle instead of circle */
+.author__avatar img {
+  border-radius: 0 !important;
+  max-width: 100% !important;
+  width: 100% !important;
+  height: auto !important;
+}
+
+/* Sidebar icons and links: larger */
+.author__urls li,
+.author__urls li a {
+  font-size: 1.15rem !important;
+}
+.author__urls i,
+.author__urls svg {
+  font-size: 1.3em !important;
+}
