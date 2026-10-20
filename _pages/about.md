@@ -15,7 +15,6 @@ I am on the 2026–27 job market.
 
 **Job Market Paper:**<br>
 [Size-dependent Subsidies and Financial Frictions: A Quantitative Analysis in Vietnam](/files/Thinh_Dao_JMP.pdf)
-
 <details markdown="1">
 <summary>Abstract</summary>
 
