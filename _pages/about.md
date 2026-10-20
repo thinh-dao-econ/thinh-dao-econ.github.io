@@ -30,4 +30,4 @@ Macroeconomics, Misallocation, Financial Frictions, Economic Development and Gro
 
 **Contact:** [thinhdao@yorku.ca](mailto:thinhdao@yorku.ca)
 
-[Curriculum Vitae](/files/Dao_CV.pdf){: .btn .btn--primary}
+[CV](/files/Thinh_Dao_CV.pdf){: .btn .btn--primary}
