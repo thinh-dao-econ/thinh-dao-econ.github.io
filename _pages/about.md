@@ -14,6 +14,7 @@ Coming from a developing country, I am motivated by the question of how these ec
 I am on the 2026–27 job market.
 
 **Job Market Paper:**
+
 [Size-dependent Subsidies and Financial Frictions: A Quantitative Analysis in Vietnam](/files/Thinh_Dao_JMP.pdf)
 
 <details markdown="1">
@@ -24,6 +25,7 @@ Motivated by a policy in Vietnam that capped short-term lending rates for small 
 </details>
 
 **Research interests:**
+
 Macroeconomics, Misallocation, Financial Frictions, Economic Development and Growth. 
 
 **Contact:** [thinhdao@yorku.ca](mailto:thinhdao@yorku.ca)
