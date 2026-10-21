@@ -1,39 +1,39 @@
 ---
 layout: archive
-title: ""
+title: "Teaching"
 permalink: /teaching/
 author_profile: true
 ---
 
 {% include base_path %}
 
-## Teaching assistant, Department of Economics, York University
+<div style="display:flex; justify-content:space-between; flex-wrap:wrap; align-items:baseline;">
+<h2 style="margin:0;">Teaching Assistant, Department of Economics, York University</h2>
+<span>2021–present</span>
+</div>
 
 I have been a teaching assistant at York University since Fall 2021, across 14 different courses in macroeconomics, international trade, quantitative methods and microeconomics. In most courses my main role is grading assignments and exams. In the two largest introductory courses, ECON 1000 and ECON 1010, I served as the administrative TA (see the note below the table). In ECON 2500 I also lead tutorials, where I explain course material and work through exercise solutions with students.
 
 ## Courses
-
-Terms: F = Fall, W = Winter, S = Summer. Courses are listed by subject, from advanced to introductory.
 
 | Subject | Course | Terms |
 |---|---|---|
 | **Macroeconomics** | ECON 4020 Advanced Macroeconomic Theory | S22 |
 | | ECON 2450 Intermediate Macroeconomic Theory II | W26 |
 | | ECON 1010 Introduction to Macroeconomics\* | S23, F23, W24, S24, F24 |
-| **International Trade** | ECON 4190 Topics in International Trade | W23 |
+| **Trade** | ECON 4190 Topics in International Trade | W23 |
 | | ECON 4129 International Trade Policy and Economic Integration | W23 |
 | | ECON 3150 International Trade | S25 |
-| **Quantitative Methods** | ECON 4140 Financial Econometrics | S22 |
+| **Quantitative methods** | ECON 4140 Financial Econometrics | S22 |
 | | ECON 3480 Introductory Statistics for Economists II | W26 |
 | | ECON 2500 Introductory Statistics for Economists I | S26, F26 |
 | | ECON 1530 Introductory Mathematical Economics I | F21, F25 |
 | | ECON 1540 Introductory Mathematical Economics II | W22 |
-| **Microeconomics and Managerial Economics** | ECON 3411 Managerial Economics and Strategy | W25 |
-| | ECON 1000 Introduction to Microeconomics\* | S23, F23, W24, S24, F24 |
+| **Microeconomics** | ECON 1000 Introduction to Microeconomics\* | S23, F23, W24, S24, F24 |
 | **Other** | ECON 3880 The Economics of Cryptocurrencies | F22 |
+| | ECON 3411 Managerial Economics and Strategy | W25 |
+| | *Terms: F = Fall, W = Winter, S = Summer. Courses are listed by subject, from advanced to introductory.* | |
 
-\* **Note on ECON 1000 and ECON 1010 (administrative TA).** These are large multi-section courses, with more than 1,000 students in a term (more than 2,000 in some terms). Grades and course materials are managed together on one online portal integrated with York's eClass platform. As the administrative TA in every term, I:
-
-- managed the online portal, including tracing student activity logs for quizzes and online assignments when technical problems occurred;
-- compiled grades from the other TAs, confirmed them with the course directors, and uploaded final grades for all students;
-- tested new features built on the online platform before they were released.
+<div markdown="1" style="font-size:0.85em;">
+\* ECON 1000 and ECON 1010 are metacourses at York University, with a large number of participants (more than 1,000 students per semester on average). As the administrative TA in every term, I compiled grades from the other TAs, confirmed them with the course directors, uploaded final grades for all students, and helped test new course features before release.
+</div>
