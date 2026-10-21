@@ -4,12 +4,12 @@ title: "Professional Experience"
 author_profile: true
 ---
 
-My professional experience spans academia, banking, and international development. During my PhD at York University, I have served as a teaching assistant and research assistant. Prior to my doctoral studies, I worked at the [Bank for Investment and Development of Vietnam](https://bidv.com.vn/en/ve-bidv) and served as a short-term consultant for the World Bank on a part-time basis.
+My professional experience spans academia, banking, and international development. During my PhD at York University, I have served as a teaching assistant and research assistant. Prior to my doctoral studies, I worked at the <a href="https://bidv.com.vn/en/ve-bidv" target="_blank" rel="noopener noreferrer">Bank for Investment and Development of Vietnam</a> and served as a short-term consultant for the World Bank on a part-time basis.
 
-## Research experience
+### Research experience at York University
 
 <div style="display:flex; justify-content:space-between; flex-wrap:wrap; margin-top:1.4em;">
-<strong>Research Assistant to Professor Tasso Adamopoulos, York University</strong>
+<strong>Research Assistant to Professor Tasso Adamopoulos </strong>
 <span>2023–2025</span>
 </div>
 
@@ -28,7 +28,7 @@ I prepared and analysed household survey data from the World Bank's Living Stand
 </details>
 
 <div style="display:flex; justify-content:space-between; flex-wrap:wrap; margin-top:1.4em;">
-<strong>Research Assistant to Professor Jun Zhao, York University</strong>
+<strong>Research Assistant to Professor Jun Zhao</strong>
 <span>2022–2024</span>
 </div>
 
@@ -46,28 +46,15 @@ I supported a study of Canada's federal Procurement Strategy for Aboriginal Busi
 
 </details>
 
-## Teaching experience
-
-<div style="display:flex; justify-content:space-between; flex-wrap:wrap; margin-top:1.4em;">
-<strong>Teaching Assistant, Department of Economics, York University</strong>
-<span>2021–present</span>
-</div>
-
-<details markdown="1">
-<summary style="cursor:pointer;"><em>Responsibilities</em></summary>
-
-I have been a teaching assistant for 14 courses in macroeconomics, international trade, quantitative methods and microeconomics. In the two largest introductory courses (metacourses with more than 1,000 students per semester on average) I served as the administrative TA, responsible for final grade compilation.
-
-- Main role in most courses: grading assignments and exams. In ECON 2500 I also lead tutorials.
-- Administrative TA for ECON 1000 and ECON 1010: compiled grades from the other TAs, confirmed them with the course directors, uploaded final grades, and helped test new course features.
-- See the [Teaching page]({{ site.baseurl }}/teaching/) for the full course list.
+### Teaching experience at York University 
+See the [Teaching page]({{ site.baseurl }}/teaching/) for the full course list.
 
 </details>
 
-## Consulting experience at international organizations
+### Consulting experience at World Bank Group
 
 <div style="display:flex; justify-content:space-between; flex-wrap:wrap; margin-top:1.4em;">
-<strong>Consultant, Pension Data Analysis and Policy Support, World Bank Group</strong>
+<strong>Consultant, Pension Data Analysis and Policy Support </strong>
 <span>Apr–Jun 2021</span>
 </div>
 
@@ -82,7 +69,7 @@ I commented on and analysed pension projection materials for Vietnam's compulsor
 </details>
 
 <div style="display:flex; justify-content:space-between; flex-wrap:wrap; margin-top:1.4em;">
-<strong>Consultant, Data Analysis, World Bank Group</strong>
+<strong>Consultant, Data Analysis </strong>
 <span>Feb–Jun 2020</span>
 </div>
 
@@ -97,7 +84,7 @@ I helped build a standardized statistical database framework for Vietnam Social 
 
 </details>
 
-## Banking experience at the [Bank for Investment and Development of Vietnam](https://bidv.com.vn/en/ve-bidv)
+## Banking experience at the <a href="https://bidv.com.vn/en/ve-bidv" target="_blank" rel="noopener noreferrer">Bank for Investment and Development of Vietnam</a>
 
 <div style="display:flex; justify-content:space-between; flex-wrap:wrap; margin-top:1.4em;">
 <strong>Senior Human Resources Officer</strong>
