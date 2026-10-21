@@ -49,8 +49,6 @@ I supported a study of Canada's federal Procurement Strategy for Aboriginal Busi
 ### Teaching experience at York University 
 See the [Teaching page]({{ site.baseurl }}/teaching/) for the full course list.
 
-</details>
-
 ### Consulting experience at World Bank Group
 
 <div style="display:flex; justify-content:space-between; flex-wrap:wrap; margin-top:1.4em;">
