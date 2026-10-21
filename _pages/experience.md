@@ -4,56 +4,64 @@ title: "Professional Experience"
 author_profile: true
 ---
 
-My professional experience spans academia, banking, and international development. During my PhD at York University, I have served as a teaching assistant and research assistant. Prior to my doctoral studies, I worked at the <a href="https://bidv.com.vn/en/ve-bidv" target="_blank" rel="noopener noreferrer">Bank for Investment and Development of Vietnam (BIDV)</a> and served as a short-term consultant for the World Bank on a part-time basis.
+My professional experience spans academia, banking, and international organizations. During my PhD at York University, I have served as a teaching assistant and research assistant. Prior to my doctoral studies, I worked at the <a href="https://bidv.com.vn/en/ve-bidv" target="_blank" rel="noopener noreferrer">Bank for Investment and Development of Vietnam (BIDV)</a> and served as a short-term consultant for the World Bank Group on a part-time basis.
 
 ## Research experience at York University
 
 <div style="display:flex; justify-content:space-between; flex-wrap:wrap; margin-top:1.4em;">
-<strong>Research Assistant to Professor Tasso Adamopoulos </strong>
-<span>2023–2025</span>
+<strong>Research Assistant to Professor Tasso Adamopoulos</strong>
+<span><strong>2023–2025</strong></span>
 </div>
+
+**Topics:** rural inequality, land inequality, food security
 
 <details markdown="1">
 <summary style="cursor:pointer;"><em>Responsibilities</em></summary>
 
-I prepared and analysed household survey data from the World Bank's Living Standards Measurement Study for several Sub-Saharan African countries. The projects covered rural inequality and food security.
+I prepared and analysed household survey data from the World Bank's Living Standards Measurement Study for several Sub-Saharan African countries (Ethiopia, Malawi, Nigeria, Tanzania, Uganda). My responsibilities included:
 
-- Worked with household surveys of roughly 3,000 to 10,000 households per country and survey wave (Ethiopia, Malawi, Nigeria, Tanzania, Uganda).
-- Built household-level and district-level datasets and constructed income, consumption, land and food-security measures, including unit conversions, price construction and per-capita measures.
-- Linked survey waves into panels, trimmed outliers, and ran robustness checks on sample and variable choices.
-- Computed inequality statistics, produced bin-scatter and rank-rank graphs and regression output, and delivered the results as reproducible R Markdown reports.
-- Replicated the professor's Stata analysis in R and documented each processing step so that others could use the data.
+- Cleaning the data and constructing the variables used in the analysis.
+- Linking survey waves into panels, identifying outliers, and running robustness checks on sample and variable choices.
+- Computing inequality statistics and producing graphs and regression output, delivered as reproducible R Markdown reports.
 - Tools: R (tidyverse, haven, ineq, ggplot2, stargazer, R Markdown).
 
 </details>
 
 <div style="display:flex; justify-content:space-between; flex-wrap:wrap; margin-top:1.4em;">
 <strong>Research Assistant to Professor Jun Zhao</strong>
-<span>2022–2024</span>
+<span><strong>2022–2024</strong></span>
 </div>
+
+**Topics:** public procurement, Procurement Strategy for Aboriginal Business
 
 <details markdown="1">
 <summary style="cursor:pointer;"><em>Responsibilities</em></summary>
 
-I supported a study of Canada's federal Procurement Strategy for Aboriginal Business. I wrote a Python pipeline that collected more than 100,000 award notices and related records from a public government website, then cleaned, matched and analysed them in R.
+I supported a study of Canada's federal Procurement Strategy for Aboriginal Business using government procurement data. My responsibilities included:
 
-- Learned Python independently and wrote the multi-step scraping pipeline (requests, BeautifulSoup, pandas, parallel requests with retry logic) and its documentation.
-- Matched the scraped records to the federal contract history (about 460,000 records, 2009–2022) and to a directory of Indigenous businesses, resolving duplicates and data-quality issues.
-- Constructed analysis samples, geocoded buyers and suppliers to compute distances, and ran summary statistics and exploratory regressions.
-- Compiled federal trade-agreement thresholds from official documents and used them to classify contracts.
-- Wrote data-processing records and a series of reports as reproducible R Markdown documents.
-- Tools: Python, R (tidyverse, lubridate, geosphere, ggplot2), R Markdown. Roughly 10 hours per week over about 40 to 60 weeks.
+- Teaching myself Python and writing a pipeline that collected more than 100,000 award notices and related records from a public government website.
+- Cleaning the scraped records and matching them to the federal contract history (about 460,000 records, 2009–2022) and to a directory of Indigenous businesses.
+- Constructing analysis samples, geocoding buyers and suppliers to compute distances, and running summary statistics and exploratory regressions.
+- Compiling federal trade-agreement thresholds from official documents to classify contracts.
+- Documenting the data processing and reporting results in reproducible R Markdown documents.
+- Tools: Python (requests, BeautifulSoup, pandas), R (tidyverse, lubridate, geosphere, ggplot2), R Markdown.
 
 </details>
 
-## Teaching experience at York University 
-See the [Teaching page]({{ site.baseurl }}/teaching/) for the full course list.
-
-## Consulting experience at World Bank Group
+## Teaching experience at York University
 
 <div style="display:flex; justify-content:space-between; flex-wrap:wrap; margin-top:1.4em;">
-<strong>Consultant, Pension Data Analysis and Policy Support </strong>
-<span>Apr–Jun 2021</span>
+<strong>Teaching Assistant, Department of Economics</strong>
+<span><strong>2021–present</strong></span>
+</div>
+
+See my [Teaching page]({{ site.baseurl }}/teaching/) for the full course list.
+
+## Consulting experience at the World Bank Group
+
+<div style="display:flex; justify-content:space-between; flex-wrap:wrap; margin-top:1.4em;">
+<strong>Pension Data Analysis and Policy Support Consultant</strong>
+<span><strong>Apr–Jun 2021</strong></span>
 </div>
 
 <details markdown="1">
@@ -67,8 +75,8 @@ I commented on and analysed pension projection materials for Vietnam's compulsor
 </details>
 
 <div style="display:flex; justify-content:space-between; flex-wrap:wrap; margin-top:1.4em;">
-<strong>Consultant, Data Analysis </strong>
-<span>Feb–Jun 2020</span>
+<strong>Data Analysis Consultant</strong>
+<span><strong>Feb–Jun 2020</strong></span>
 </div>
 
 <details markdown="1">
@@ -86,7 +94,7 @@ I helped build a standardized statistical database framework for Vietnam Social 
 
 <div style="display:flex; justify-content:space-between; flex-wrap:wrap; margin-top:1.4em;">
 <strong>Senior Human Resources Officer</strong>
-<span>2015–2020</span>
+<span><strong>2015–2020</strong></span>
 </div>
 
 <details markdown="1">
@@ -102,7 +110,7 @@ I analysed branch performance to set staffing needs and ran recruitment across a
 
 <div style="display:flex; justify-content:space-between; flex-wrap:wrap; margin-top:1.4em;">
 <strong>Business Planning Officer</strong>
-<span>2013–2015</span>
+<span><strong>2013–2015</strong></span>
 </div>
 
 <details markdown="1">
@@ -117,7 +125,7 @@ I developed business plans and evaluated the performance of the bank and its bra
 
 <div style="display:flex; justify-content:space-between; flex-wrap:wrap; margin-top:1.4em;">
 <strong>Corporate Credit Analyst and Relationship Officer</strong>
-<span>2012–2013</span>
+<span><strong>2012–2013</strong></span>
 </div>
 
 <details markdown="1">
