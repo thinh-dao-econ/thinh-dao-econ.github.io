@@ -4,7 +4,7 @@ title: "Professional Experience"
 author_profile: true
 ---
 
-Before and alongside my PhD, I worked in research, teaching, international development and banking. Most of this work involved building and analysing large datasets, which shaped my research on misallocation and financial frictions in Vietnam.
+My professional experience spans academia, banking, and international development. During my PhD at York University, I have served as a teaching assistant and research assistant. Prior to my doctoral studies, I worked at the [Bank for Investment and Development of Vietnam](https://bidv.com.vn/en/ve-bidv) and served as a short-term consultant for the World Bank on a part-time basis.
 
 ## Research experience
 
@@ -13,10 +13,10 @@ Before and alongside my PhD, I worked in research, teaching, international devel
 <span>2023–2025</span>
 </div>
 
-I prepared and analysed household survey data from the World Bank's Living Standards Measurement Study for several Sub-Saharan African countries. The projects covered rural inequality and food security.
-
 <details markdown="1">
-<summary style="cursor:pointer;"><em>Details</em></summary>
+<summary style="cursor:pointer;"><em>Responsibilities</em></summary>
+
+I prepared and analysed household survey data from the World Bank's Living Standards Measurement Study for several Sub-Saharan African countries. The projects covered rural inequality and food security.
 
 - Worked with household surveys of roughly 3,000 to 10,000 households per country and survey wave (Ethiopia, Malawi, Nigeria, Tanzania, Uganda).
 - Built household-level and district-level datasets and constructed income, consumption, land and food-security measures, including unit conversions, price construction and per-capita measures.
@@ -32,10 +32,10 @@ I prepared and analysed household survey data from the World Bank's Living Stand
 <span>2022–2024</span>
 </div>
 
-I supported a study of Canada's federal Procurement Strategy for Aboriginal Business. I wrote a Python pipeline that collected more than 100,000 award notices and related records from a public government website, then cleaned, matched and analysed them in R.
-
 <details markdown="1">
-<summary style="cursor:pointer;"><em>Details</em></summary>
+<summary style="cursor:pointer;"><em>Responsibilities</em></summary>
+
+I supported a study of Canada's federal Procurement Strategy for Aboriginal Business. I wrote a Python pipeline that collected more than 100,000 award notices and related records from a public government website, then cleaned, matched and analysed them in R.
 
 - Learned Python independently and wrote the multi-step scraping pipeline (requests, BeautifulSoup, pandas, parallel requests with retry logic) and its documentation.
 - Matched the scraped records to the federal contract history (about 460,000 records, 2009–2022) and to a directory of Indigenous businesses, resolving duplicates and data-quality issues.
@@ -53,28 +53,28 @@ I supported a study of Canada's federal Procurement Strategy for Aboriginal Busi
 <span>2021–present</span>
 </div>
 
-I have been a teaching assistant for 14 courses in macroeconomics, international trade, quantitative methods and microeconomics. In the two largest introductory courses I served as the administrative TA, running the course's online portal and final grade compilation.
-
 <details markdown="1">
-<summary style="cursor:pointer;"><em>Details</em></summary>
+<summary style="cursor:pointer;"><em>Responsibilities</em></summary>
+
+I have been a teaching assistant for 14 courses in macroeconomics, international trade, quantitative methods and microeconomics. In the two largest introductory courses (metacourses with more than 1,000 students per semester on average) I served as the administrative TA, responsible for final grade compilation.
 
 - Main role in most courses: grading assignments and exams. In ECON 2500 I also lead tutorials.
-- Administrative TA for ECON 1000 and ECON 1010 (more than 1,000 students in a term): managed the online portal, compiled grades from the other TAs and confirmed them with the course directors, and tested new platform features.
+- Administrative TA for ECON 1000 and ECON 1010: compiled grades from the other TAs, confirmed them with the course directors, uploaded final grades, and helped test new course features.
 - See the [Teaching page]({{ site.baseurl }}/teaching/) for the full course list.
 
 </details>
 
-## International development
+## Consulting experience at international organizations
 
 <div style="display:flex; justify-content:space-between; flex-wrap:wrap; margin-top:1.4em;">
-<strong>Short-Term Consultant, Pension Data Analysis and Policy Support, World Bank Group</strong>
+<strong>Consultant, Pension Data Analysis and Policy Support, World Bank Group</strong>
 <span>Apr–Jun 2021</span>
 </div>
 
-I commented on and analysed pension projection materials for Vietnam's compulsory pension system. I contributed the data analysis for policy recommendations and explained it to the labor ministry.
-
 <details markdown="1">
-<summary style="cursor:pointer;"><em>Details</em></summary>
+<summary style="cursor:pointer;"><em>Responsibilities</em></summary>
+
+I commented on and analysed pension projection materials for Vietnam's compulsory pension system. I contributed the data analysis for policy recommendations and explained it to the labor ministry.
 
 - Reviewed the World Bank's baseline pension projection note and the joint World Bank and ILO comparison of fund projections.
 - Worked in English with the World Bank and ILO teams and in Vietnamese with government counterparts.
@@ -82,14 +82,14 @@ I commented on and analysed pension projection materials for Vietnam's compulsor
 </details>
 
 <div style="display:flex; justify-content:space-between; flex-wrap:wrap; margin-top:1.4em;">
-<strong>Short-Term Consultant, Data Analysis, World Bank Group</strong>
+<strong>Consultant, Data Analysis, World Bank Group</strong>
 <span>Feb–Jun 2020</span>
 </div>
 
-I helped build a standardized statistical database framework for Vietnam Social Security. I designed the data-collection tables and checked the data that came back.
-
 <details markdown="1">
-<summary style="cursor:pointer;"><em>Details</em></summary>
+<summary style="cursor:pointer;"><em>Responsibilities</em></summary>
+
+I helped build a standardized statistical database framework for Vietnam Social Security. I designed the data-collection tables and checked the data that came back.
 
 - Designed about 180 tables in 15 Excel workbooks, building on an earlier World Bank template and revising it after comments from the International Labour Organization.
 - Wrote an Excel macro that organizes each workbook, prepared bilingual (English and Vietnamese) table specifications, and summarized meetings with counterpart agencies.
@@ -97,17 +97,17 @@ I helped build a standardized statistical database framework for Vietnam Social 
 
 </details>
 
-## Banking
+## Banking experience at the [Bank for Investment and Development of Vietnam](https://bidv.com.vn/en/ve-bidv)
 
 <div style="display:flex; justify-content:space-between; flex-wrap:wrap; margin-top:1.4em;">
-<strong>Senior Human Resources Officer, Bank for Investment and Development of Vietnam (BIDV)</strong>
+<strong>Senior Human Resources Officer</strong>
 <span>2015–2020</span>
 </div>
 
-I analysed branch performance to set staffing needs and ran recruitment across a network of about 220 branches. I also helped plan staffing for a large bank merger.
-
 <details markdown="1">
-<summary style="cursor:pointer;"><em>Details</em></summary>
+<summary style="cursor:pointer;"><em>Responsibilities</em></summary>
+
+I analysed branch performance to set staffing needs and ran recruitment across a network of about 220 branches. I also helped plan staffing for a large bank merger.
 
 - Screened about 5,000 applications and recruited about 1,000 staff per year using Excel.
 - Contributed directly to the design of the bank's recruitment software, now part of its recruitment website.
@@ -116,14 +116,14 @@ I analysed branch performance to set staffing needs and ran recruitment across a
 </details>
 
 <div style="display:flex; justify-content:space-between; flex-wrap:wrap; margin-top:1.4em;">
-<strong>Business Planning Officer, Strategic Planning Department, BIDV</strong>
+<strong>Business Planning Officer</strong>
 <span>2013–2015</span>
 </div>
 
-I developed business plans and evaluated the performance of the bank and its branches using large banking datasets. I proposed a restructuring plan for an underperforming regional branch, which the Board of Directors approved.
-
 <details markdown="1">
-<summary style="cursor:pointer;"><em>Details</em></summary>
+<summary style="cursor:pointer;"><em>Responsibilities</em></summary>
+
+I developed business plans and evaluated the performance of the bank and its branches using large banking datasets. I proposed a restructuring plan for an underperforming regional branch, which the Board of Directors approved.
 
 - Appraised and proposed business plans for branches in Ho Chi Minh City and the Mekong Delta, and tracked and ranked their performance.
 - Examined branch-level loan lists, lending rates and collateral to identify risks.
@@ -131,14 +131,14 @@ I developed business plans and evaluated the performance of the bank and its bra
 </details>
 
 <div style="display:flex; justify-content:space-between; flex-wrap:wrap; margin-top:1.4em;">
-<strong>Corporate Credit Analyst and Relationship Officer, SGD1 Branch, BIDV</strong>
+<strong>Corporate Credit Analyst and Relationship Officer</strong>
 <span>2012–2013</span>
 </div>
 
-I assessed corporate clients' credit quality from their financial statements, business plans and collateral. I recommended credit terms and worked with other departments on foreign exchange, trade finance and international payments.
-
 <details markdown="1">
-<summary style="cursor:pointer;"><em>Details</em></summary>
+<summary style="cursor:pointer;"><em>Responsibilities</em></summary>
+
+I assessed corporate clients' credit quality from their financial statements, business plans and collateral. I recommended credit terms and worked with other departments on foreign exchange, trade finance and international payments.
 
 - Proposed credit limits, interest rates and disbursements, and valued collateral assets.
 - My experience with lending and interest-rate regulation for small and medium-sized firms in Vietnam is one of the motivations for my dissertation research.
