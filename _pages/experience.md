@@ -13,7 +13,7 @@ My professional experience spans academia, banking, and international organizati
 <span><strong>2023–2025</strong></span>
 </div>
 
-**Topics:** rural inequality, land inequality, food security
+Research topics: Rural inequality, land inequality, and food security
 
 <details markdown="1">
 <summary style="cursor:pointer;"><em>Responsibilities</em></summary>
@@ -32,19 +32,18 @@ I prepared and analysed household survey data from the World Bank's Living Stand
 <span><strong>2022–2024</strong></span>
 </div>
 
-**Topics:** public procurement, Procurement Strategy for Aboriginal Business
+Research topics: Public Procurement, Procurement Strategy for Aboriginal Business. 
 
 <details markdown="1">
 <summary style="cursor:pointer;"><em>Responsibilities</em></summary>
 
-I supported a study of Canada's federal Procurement Strategy for Aboriginal Business using government procurement data. My responsibilities included:
-
-- Teaching myself Python and writing a pipeline that collected more than 100,000 award notices and related records from a public government website.
-- Cleaning the scraped records and matching them to the federal contract history (about 460,000 records, 2009–2022) and to a directory of Indigenous businesses.
-- Constructing analysis samples, geocoding buyers and suppliers to compute distances, and running summary statistics and exploratory regressions.
-- Compiling federal trade-agreement thresholds from official documents to classify contracts.
-- Documenting the data processing and reporting results in reproducible R Markdown documents.
-- Tools: Python (requests, BeautifulSoup, pandas), R (tidyverse, lubridate, geosphere, ggplot2), R Markdown.
+I contributed to a study of Canada’s federal Procurement Strategy for Aboriginal Business using government procurement data. My responsibilities included:<br>
+- Independently learning Python and developing a data collection pipeline to retrieve more than 100,000 contract award notices and related records from a public government website.
+- Cleaning the collected data and matching records to the federal contract history (approximately 460,000 records covering 2009–2022) and a directory of Indigenous businesses.
+- Compiling federal trade agreement thresholds from official documents to classify contracts.
+- Constructing analysis samples, geocoding buyers and suppliers to calculate geographic distances, and conducting descriptive analyses and exploratory regressions.
+- Documenting data processing procedures and reporting results in reproducible R Markdown reports.
+- Tools: Python (requests, BeautifulSoup, pandas), R (tidyverse, lubridate, geosphere, ggplot2, R Markdown).
 
 </details>
 
