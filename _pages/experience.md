@@ -4,9 +4,9 @@ title: "Professional Experience"
 author_profile: true
 ---
 
-My professional experience spans academia, banking, and international development. During my PhD at York University, I have served as a teaching assistant and research assistant. Prior to my doctoral studies, I worked at the <a href="https://bidv.com.vn/en/ve-bidv" target="_blank" rel="noopener noreferrer">Bank for Investment and Development of Vietnam</a> and served as a short-term consultant for the World Bank on a part-time basis.
+My professional experience spans academia, banking, and international development. During my PhD at York University, I have served as a teaching assistant and research assistant. Prior to my doctoral studies, I worked at the <a href="https://bidv.com.vn/en/ve-bidv" target="_blank" rel="noopener noreferrer">Bank for Investment and Development of Vietnam (BIDV)</a> and served as a short-term consultant for the World Bank on a part-time basis.
 
-### Research experience at York University
+## Research experience at York University
 
 <div style="display:flex; justify-content:space-between; flex-wrap:wrap; margin-top:1.4em;">
 <strong>Research Assistant to Professor Tasso Adamopoulos </strong>
@@ -46,10 +46,10 @@ I supported a study of Canada's federal Procurement Strategy for Aboriginal Busi
 
 </details>
 
-### Teaching experience at York University 
+## Teaching experience at York University 
 See the [Teaching page]({{ site.baseurl }}/teaching/) for the full course list.
 
-### Consulting experience at World Bank Group
+## Consulting experience at World Bank Group
 
 <div style="display:flex; justify-content:space-between; flex-wrap:wrap; margin-top:1.4em;">
 <strong>Consultant, Pension Data Analysis and Policy Support </strong>
@@ -82,7 +82,7 @@ I helped build a standardized statistical database framework for Vietnam Social 
 
 </details>
 
-## Banking experience at the <a href="https://bidv.com.vn/en/ve-bidv" target="_blank" rel="noopener noreferrer">Bank for Investment and Development of Vietnam</a>
+## Banking experience at <a href="https://bidv.com.vn/en/ve-bidv" target="_blank" rel="noopener noreferrer">BIDV</a>
 
 <div style="display:flex; justify-content:space-between; flex-wrap:wrap; margin-top:1.4em;">
 <strong>Senior Human Resources Officer</strong>
