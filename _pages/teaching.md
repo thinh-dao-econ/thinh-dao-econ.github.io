@@ -5,7 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-<style> .page__title { display: none; } table, table th, table td { font-size: 1rem !important; } </style>
+<style> .page__title { display: none; } table, table th, table td { font-size: 1rem !important; table th { text-align: center !important; } </style>
 
 {% include base_path %}
 
