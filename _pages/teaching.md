@@ -14,8 +14,7 @@ table th { text-align: center !important; }
 {% include base_path %}
 
 <div style="display:flex; justify-content:space-between; flex-wrap:wrap; align-items:baseline;">
-<h2 style="margin:0;">Teaching Assistant, York University</h2>
-<span><strong>2021–present</strong></span>
+<h2 style="margin:0;">Teaching Assistant, York University</h2> <span><strong>2021–present</strong></span>
 </div>
 
 I have served as a teaching assistant at York University since Fall 2021, supporting instruction across 14 courses in macroeconomics, international trade, quantitative methods, and microeconomics. Courses include: 
