@@ -13,8 +13,9 @@ details > ul { margin-top: 0 !important; }
 
 My professional experience spans academia, banking, and international organizations. During my PhD at York University, I have served as a teaching assistant and research assistant. Prior to my doctoral studies, I worked at the <a href="https://bidv.com.vn/en/ve-bidv" target="_blank" rel="noopener noreferrer">Bank for Investment and Development of Vietnam (BIDV)</a> and served as a short-term consultant for the World Bank Group on a part-time basis.
 
+---
 ## Research experience at York University
-
+---
 <div style="display:flex; justify-content:space-between; flex-wrap:wrap; margin-top:1.4em;">
 <strong>Research Assistant to Professor Tasso Adamopoulos</strong>
 <span><strong>2023–2025</strong></span>
@@ -56,7 +57,9 @@ I contributed to a study of Canada’s federal Procurement Strategy for Aborigin
 
 </details>
 
+---
 ## Teaching experience at York University
+---
 
 <div style="display:flex; justify-content:space-between; flex-wrap:wrap; margin-top:1.4em;">
 <strong>Teaching Assistant, Department of Economics</strong>
@@ -65,7 +68,9 @@ I contributed to a study of Canada’s federal Procurement Strategy for Aborigin
 
 See my [Teaching page]({{ site.baseurl }}/teaching/) for the full course list.
 
+---
 ## Consulting experience at the World Bank Group
+---
 
 <div style="display:flex; justify-content:space-between; flex-wrap:wrap; margin-top:1.4em;">
 <strong>Pension Data Analysis and Policy Support Consultant</strong>
@@ -95,7 +100,9 @@ I contributed to the development of a standardized statistical database framewor
 
 </details>
 
+---
 ## Banking experience at <a href="https://bidv.com.vn/en/ve-bidv" target="_blank" rel="noopener noreferrer">BIDV</a>
+---
 
 <div style="display:flex; justify-content:space-between; flex-wrap:wrap; margin-top:1.4em;">
 <strong>Senior Human Resources Officer</strong>
