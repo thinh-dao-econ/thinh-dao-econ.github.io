@@ -34,13 +34,14 @@ Motivated by a policy in Vietnam that capped short-term lending rates for small 
 ## Working Paper
 
 <div class="res-head">
-<strong>Misallocation in Vietnam: A Structural Analysis Across Industries and Ownership Structures</strong>
-</div>
+<strong> <a href="{{ site.baseurl }}/files/Thinh_Dao_researchpaper_Misallocation_in_Vietnam_Apr14_2026.pdf" target="_blank" rel="noopener noreferrer">Misallocation in Vietnam: A Structural Analysis Across Industries and Ownership Structures</a>
+ </div>
 
 <details markdown="1">
 <summary style="cursor:pointer;"><em>Abstract</em></summary>
 
-I develop a structural general equilibrium model with firm, ownership, and industry layers to quantify resource misallocation in Vietnam from 2011 to 2020. Misallocation is substantial and rising, driven mainly by distortions among firms and across industries rather than across ownership types, and labor distortions matter more than capital distortions.
+In this paper, I use a comprehensive firm-level dataset and develop a structural general equilibrium model featuring three layers of economic organization: firms, ownership structures (state-owned, non-state, and foreign-invested), and industries to quantify resource misallocation in Vietnam over the 2011-2020 period. I also decompose the effect of distortions in each structural layer to aggregate productivity. The findings reveal significant allocative inefficiencies within the Vietnamese economy, that intensify over time. Distortions in the capital market have a weaker
+impact on aggregate productivity than those in the labor market—a pattern that persists across various aggregation levels. Counterfactual exercises show that distortions among firms within industry-ownership groups and across industries are the primary drivers of inefficiency. In contrast, distortions across ownership structures within industries have a minor effect on aggregate productivity and exhibit a modest declining trend, largely due to reductions in labor distortions.
 
 </details>
 
