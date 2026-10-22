@@ -133,7 +133,7 @@ My responsibilities included:
 </details>
 
 <div style="display:flex; justify-content:space-between; flex-wrap:wrap; margin-top:1.4em;">
-<strong>Corporate Credit Analyst and Relationship Officer</strong>
+<strong>Corporate Credit Analyst and Relationship Management Officer</strong>
 <span><strong>2012–2013</strong></span>
 </div>
 
