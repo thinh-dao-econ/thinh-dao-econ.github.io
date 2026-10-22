@@ -64,7 +64,7 @@ I contributed to a study of Canada’s federal Procurement Strategy for Aborigin
 <span><strong>2021–present</strong></span>
 </div>
 
-Learn more about my [teaching experience].({{ site.baseurl }}/teaching/) for the full course list.
+Learn more about my [teaching experience]({{ site.baseurl }}/teaching/) for the full course list.
 
 ## Consulting experience at the World Bank Group
 
