@@ -6,10 +6,11 @@ author_profile: true
 ---
 
 <style>
-.page__content h2 { border-bottom: 1px solid #999; padding-bottom: 0.25em; }
-.res-head { display: flex; justify-content: space-between; flex-wrap: wrap; margin-top: 1.4em; }
+.exp-topics { margin: 0.3em 0 0; }
 details > summary { margin-bottom: 0.4em; }
 details > p { margin-bottom: 0.3em !important; }
+details > ul { margin-top: 0 !important; }
+.page__content h2 { border-bottom: 1px solid #999; padding-bottom: 0.25em; }
 </style>
 
 {% include base_path %}
