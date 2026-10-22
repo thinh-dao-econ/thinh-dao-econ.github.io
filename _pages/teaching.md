@@ -7,7 +7,7 @@ author_profile: true
 
 <style>
 .page__title { display: none; }
-table, table th, table td { font-size: 0.95rem !important; }
+table, table th, table td { font-size: 0.9rem !important; }
 table th { text-align: center !important; }
 </style>
 
