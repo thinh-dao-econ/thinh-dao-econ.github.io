@@ -41,7 +41,7 @@ I contributed to studies in inequality and food security. My contributions inclu
 <span><strong>2022–2024</strong></span>
 </div>
 
-<div class="exp-topics">Research topics:public procurement and Indigenous businesses in Canada.</div>
+<div class="exp-topics">Research topics: public procurement and Indigenous businesses in Canada.</div>
 
 <details markdown="1">
 <summary style="cursor:pointer;"><em>Learn more</em></summary>
