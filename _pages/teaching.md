@@ -14,7 +14,7 @@ table th { text-align: center !important; }
 {% include base_path %}
 
 <div style="display:flex; justify-content:space-between; flex-wrap:wrap; align-items:baseline;">
-<h2 style="margin:0;">Teaching Assistant, Department of Economics, York University</h2>
+<h2 style="margin:0;">Teaching Assistant, York University</h2>
 <span><strong>2021–present</strong></span>
 </div>
 
