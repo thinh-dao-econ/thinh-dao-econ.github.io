@@ -14,7 +14,7 @@ Coming from a developing country, I am motivated by the question of how these ec
 I am on the 2026–27 job market.
 
 **Job Market Paper:**<br>
-[Size-dependent Subsidies and Financial Frictions: A Quantitative Analysis in Vietnam](/files/Thinh_Dao_JMP.pdf)
+<a href="{{ site.baseurl }}/files/Thinh_Dao_JMP.pdf" target="_blank" rel="noopener noreferrer">Size-dependent Subsidies and Financial Frictions: A Quantitative Analysis in Vietnam</a>
 <details markdown="1" style="margin-top: -0.8em; margin-bottom: 1.5em;">
 <summary>Abstract</summary>
 
