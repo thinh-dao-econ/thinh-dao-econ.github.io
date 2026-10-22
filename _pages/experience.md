@@ -13,8 +13,7 @@ My professional experience spans academia, banking, and international organizati
 <span><strong>2023–2025</strong></span>
 </div>
 
-Research topics: Rural Inequality, land inequality, and food security
-
+Research topics: Rural Inequality, land inequality, and food security. <br>
 <details markdown="1">
 <summary style="cursor:pointer;"><em>Responsibilities</em></summary>
 
@@ -32,8 +31,7 @@ I contributed to studies in inequality and food security. My contributions inclu
 <span><strong>2022–2024</strong></span>
 </div>
 
-Research topics: Public procurement and Canada’s Procurement Strategy for Aboriginal Business.
-
+Research topics: Public procurement and Canada’s Procurement Strategy for Aboriginal Business.<br>
 <details markdown="1">
 <summary style="cursor:pointer;"><em>Responsibilities</em></summary>
 
