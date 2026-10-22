@@ -27,6 +27,7 @@ Macroeconomics, Misallocation, Financial Frictions, Economic Development and Gro
 Learn more about [research](/research/).<br>
 
 **Contact:** [thinhdao@yorku.ca](mailto:thinhdao@yorku.ca) <br>
+
 [My CV](/files/Thinh_Dao_CV.pdf){: .btn .btn--primary .btn--large}
 
 
