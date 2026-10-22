@@ -21,14 +21,13 @@ details > p { margin-bottom: 0.3em !important; }
 ## Job Market Paper
 
 <div class="res-head">
-<strong>Size-dependent Subsidies and Financial Frictions: A Quantitative Analysis in Vietnam</strong>
-<span><a href="{{ site.baseurl }}/files/Thinh_Dao_JMP.pdf" target="_blank" rel="noopener noreferrer">PDF</a></span>
-</div>
+<strong> <a href="{{ site.baseurl }}/files/Thinh_Dao_JMP.pdf" target="_blank" rel="noopener noreferrer">Size-dependent Subsidies and Financial Frictions: A Quantitative Analysis in Vietnam</a>
+ </div>
 
 <details markdown="1">
 <summary style="cursor:pointer;"><em>Abstract</em></summary>
 
-Motivated by Vietnam’s 2012 policy capping short-term lending rates for small and medium-sized enterprises, I develop a general equilibrium model integrating size-dependent financial subsidy and borrowing constraints, in which firms below an employment threshold receive a discounted price of capital. I find that the subsidy expands output and relaxes financial frictions, but at the cost of lower allocative efficiency.
+Motivated by a policy in Vietnam that capped short-term lending rates for small and medium-sized enterprises (SMEs) in 2012, this paper develops a heterogeneous-agent general equilibrium model that integrates a size-dependent financial subsidy into a canonical framework of entrepreneurs with borrowing constraints. In the model, firms below an employment threshold rent capital at a discounted price, so firms choose their production scale endogenously. Micro-level data from Vietnam document patterns in SME financing conditions around the policy and are used to calibrate the model. In the quantitative exercise, a 10\% capital-price discount for eligible firms raises the equilibrium interest rate by 2.9\% and the wage by 0.7\%. The subsidy increases aggregate output and capital while slightly reducing total factor productivity, and it generates substantial firm-size bunching around the employment threshold. Counterfactual experiments that vary the subsidy rate illustrate a trade-off between economic scale and efficiency: a lower subsidy preserves the relaxation of financial frictions with minimal effects on aggregate productivity, whereas higher subsidies expand capital and output and compress capital distortions further, but at the cost of higher overall misallocation. This paper connects the literature on size-dependent distortions and financial frictions by introducing size-based, price-driven wedges into a canonical heterogeneous-agent model with borrowing constraints.
 
 </details>
 
