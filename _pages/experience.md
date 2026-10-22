@@ -146,6 +146,7 @@ My responsibilities included:
 - Recommending credit limits, interest rates, and loan disbursements, and assessing collateral values.
 - Collaborating with other departments on foreign exchange, trade finance, and international payments.
 
-</details>
+</details> <br>
+
 
 [My CV](/files/Thinh_Dao_CV.pdf){: .btn .btn--primary .btn--large}
