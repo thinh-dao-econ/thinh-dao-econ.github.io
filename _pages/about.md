@@ -7,11 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD candidate in Economics at York University. 
+I am a PhD candidate in Economics at York University.
 
-Coming from a developing country, I am motivated by the question of how these economies can achieve sustained growth by making better use of their existing resources. My research is in macroeconomic development with a focus on misallocation, particularly on how financial frictions and government policies shape resource allocation and aggregate productivity. My work combines quantitative modeling, disciplined by micro-level data, with empirical analysis to quantify the productive potential of an economy.
+Coming from a developing country, I am motivated by the question of how these economies can achieve sustained growth by making better use of their existing resources. My research focuses on macroeconomic development, particularly resource misallocation and the role of financial frictions and government policies in shaping resource allocation and aggregate productivity. My work combines quantitative modelling with empirical analysis to quantify the productive potential of economies.
 
-I am on the 2026–27 job market.
+**I am on the 2026–27 job market.**
 
 **Job Market Paper:**<br>
 <a href="{{ site.baseurl }}/files/Thinh_Dao_JMP.pdf" target="_blank" rel="noopener noreferrer">Size-dependent Subsidies and Financial Frictions: A Quantitative Analysis in Vietnam</a>
@@ -24,7 +24,7 @@ Motivated by a policy in Vietnam that capped short-term lending rates for small 
 
 **Research interests:**<br>
 Macroeconomics, Misallocation, Financial Frictions, Economic Development and Growth.<br>
-Learn more about [research](/research/).<br>
+Learn more about my [research](/research/).<br>
 
 **Contact:** [thinhdao@yorku.ca](mailto:thinhdao@yorku.ca) <br>
 
