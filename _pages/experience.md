@@ -23,7 +23,7 @@ My professional experience spans academia, banking, and international organizati
 <div class="exp-topics">Research topics: rural inequality, land inequality, and food security.</div>
 
 <details markdown="1">
-<summary style="cursor:pointer;"><em>Responsibilities</em></summary>
+<summary style="cursor:pointer;"><em>Details</em></summary>
 
 I contributed to studies in inequality and food security. My contributions included:
 
@@ -43,7 +43,7 @@ I contributed to studies in inequality and food security. My contributions inclu
 <div class="exp-topics">Research topics: public procurement and Canada’s Procurement Strategy for Aboriginal Business.</div>
 
 <details markdown="1">
-<summary style="cursor:pointer;"><em>Responsibilities</em></summary>
+<summary style="cursor:pointer;"><em>Details</em></summary>
 
 I contributed to a study of Canada’s federal Procurement Strategy for Aboriginal Business using government procurement data. My contributions included:
 
@@ -73,7 +73,7 @@ See my [Teaching page]({{ site.baseurl }}/teaching/) for the full course list.
 </div>
 
 <details markdown="1">
-<summary style="cursor:pointer;"><em>Responsibilities</em></summary>
+<summary style="cursor:pointer;"><em>Details</em></summary>
 
 I reviewed and commented on the World Bank’s baseline pension projection note and on the World Bank–International Labour Organization (ILO) comparison of pension fund projections for Vietnam’s compulsory pension system. I also contributed data analysis to inform policy recommendations and explained the findings to Vietnamese government counterparts.
 
@@ -85,7 +85,7 @@ I reviewed and commented on the World Bank’s baseline pension projection note 
 </div>
 
 <details markdown="1">
-<summary style="cursor:pointer;"><em>Responsibilities</em></summary>
+<summary style="cursor:pointer;"><em>Details</em></summary>
 
 I contributed to the development of a standardized statistical database framework for Vietnam Social Security by designing data collection templates and validating the submitted data. My contributions included:
 
@@ -103,7 +103,7 @@ I contributed to the development of a standardized statistical database framewor
 </div>
 
 <details markdown="1">
-<summary style="cursor:pointer;"><em>Responsibilities</em></summary>
+<summary style="cursor:pointer;"><em>Details</em></summary>
 
 My responsibilities included:
 
@@ -120,7 +120,7 @@ My responsibilities included:
 </div>
 
 <details markdown="1">
-<summary style="cursor:pointer;"><em>Responsibilities</em></summary>
+<summary style="cursor:pointer;"><em>Details</em></summary>
 
 My responsibilities included:
 
@@ -137,7 +137,7 @@ My responsibilities included:
 </div>
 
 <details markdown="1">
-<summary style="cursor:pointer;"><em>Responsibilities</em></summary>
+<summary style="cursor:pointer;"><em>Details</em></summary>
 
 My responsibilities included:
 
