@@ -4,6 +4,13 @@ title: "Professional Experience"
 author_profile: true
 ---
 
+<style>
+.exp-topics { margin: 0.3em 0 0; }
+details > summary { margin-bottom: 0.4em; }
+details > p { margin-bottom: 0.3em !important; }
+details > ul { margin-top: 0 !important; }
+</style>
+
 My professional experience spans academia, banking, and international organizations. During my PhD at York University, I have served as a teaching assistant and research assistant. Prior to my doctoral studies, I worked at the <a href="https://bidv.com.vn/en/ve-bidv" target="_blank" rel="noopener noreferrer">Bank for Investment and Development of Vietnam (BIDV)</a> and served as a short-term consultant for the World Bank Group on a part-time basis.
 
 ## Research experience at York University
@@ -13,15 +20,17 @@ My professional experience spans academia, banking, and international organizati
 <span><strong>2023–2025</strong></span>
 </div>
 
-Research topics: Rural Inequality, land inequality, and food security. <br>
+<div class="exp-topics">Research topics: rural inequality, land inequality, and food security.</div>
+
 <details markdown="1">
 <summary style="cursor:pointer;"><em>Responsibilities</em></summary>
 
-I contributed to studies in inequality and food security. My contributions included: <br>
-- Collected data from the World Bank’s Living Standards Measurement Study (LSMS) for five Sub-Saharan African countries: Ethiopia, Malawi, Nigeria, Tanzania, and Uganda. 
-- Cleaned the data and constructed the variables used in the analysis.
-- Linked survey waves to construct panel datasets, identified outliers, and conducted robustness checks on sample definitions and variable choices.
-- Computed inequality statistics and produced graphs and regression outputs, with results documented in reproducible R Markdown reports.
+I contributed to studies in inequality and food security. My contributions included:
+
+- Working with data from the World Bank’s Living Standards Measurement Study (LSMS) for five Sub-Saharan African countries: Ethiopia, Malawi, Nigeria, Tanzania, and Uganda.
+- Cleaning the data and constructing the variables used in the analysis.
+- Linking survey waves to construct panel datasets, identifying outliers, and conducting robustness checks on sample definitions and variable choices.
+- Computing inequality statistics and producing graphs and regression outputs, with results documented in reproducible R Markdown reports.
 - Tools: R (tidyverse, haven, ineq, ggplot2, stargazer, R Markdown).
 
 </details>
@@ -31,16 +40,18 @@ I contributed to studies in inequality and food security. My contributions inclu
 <span><strong>2022–2024</strong></span>
 </div>
 
-Research topics: Public procurement and Canada’s Procurement Strategy for Aboriginal Business.<br>
+<div class="exp-topics">Research topics: public procurement and Canada’s Procurement Strategy for Aboriginal Business.</div>
+
 <details markdown="1">
 <summary style="cursor:pointer;"><em>Responsibilities</em></summary>
 
-I contributed to a study of Canada’s federal Procurement Strategy for Aboriginal Business using government procurement data. My contributions included:<br>
-- Developed a Python-based data collection pipeline to retrieve more than 100,000 contract award notices and related records from a public government website.
-- Cleaned the collected data and matched records to the federal contract history (approximately 460,000 records from 2009 to 2022) and a directory of Indigenous businesses.
-- Compiled federal trade agreement thresholds from official documents to classify contracts.
-- Finalized analysis samples, geocoded buyers and suppliers to calculate geographic distances, and conducted descriptive analyses and exploratory regressions.
-- Documented data processing procedures and reported results in reproducible R Markdown reports.
+I contributed to a study of Canada’s federal Procurement Strategy for Aboriginal Business using government procurement data. My contributions included:
+
+- Developing a Python-based data collection pipeline to retrieve more than 100,000 contract award notices and related records from a public government website.
+- Cleaning the collected data and matching records to the federal contract history (approximately 460,000 records from 2009 to 2022) and a directory of Indigenous businesses.
+- Compiling federal trade agreement thresholds from official documents to classify contracts.
+- Finalizing analysis samples, geocoding buyers and suppliers to calculate geographic distances, and conducting descriptive analyses and exploratory regressions.
+- Documenting data processing procedures and reporting results in reproducible R Markdown reports.
 - Tools: Python (requests, BeautifulSoup, pandas), R (tidyverse, lubridate, geosphere, ggplot2, R Markdown).
 
 </details>
@@ -64,7 +75,7 @@ See my [Teaching page]({{ site.baseurl }}/teaching/) for the full course list.
 <details markdown="1">
 <summary style="cursor:pointer;"><em>Responsibilities</em></summary>
 
-I reviewed the World Bank’s baseline pension projection note and compared pension fund projections prepared by the World Bank and the International Labour Organization (ILO). I also analysed pension projection materials for Vietnam’s compulsory pension system, contributing data analysis to inform policy recommendations and discussing the findings with Vietnamese government counterparts.
+I reviewed and commented on the World Bank’s baseline pension projection note and on the World Bank–International Labour Organization (ILO) comparison of pension fund projections for Vietnam’s compulsory pension system. I also contributed data analysis to inform policy recommendations and explained the findings to Vietnamese government counterparts.
 
 </details>
 
@@ -76,10 +87,11 @@ I reviewed the World Bank’s baseline pension projection note and compared pens
 <details markdown="1">
 <summary style="cursor:pointer;"><em>Responsibilities</em></summary>
 
-I contributed to the development of a standardized statistical database framework for Vietnam Social Security by designing data collection templates and validating the submitted data. My contributions included:<br> 
-- Designed approximately 180 tables across 15 Excel workbooks, building on an existing World Bank template and revising it in response to feedback from the International Labour Organization (ILO).
-- Developed an Excel macro to organize the workbooks, prepared bilingual (English and Vietnamese) table specifications, and documented meetings with counterpart agencies.
-- Conducted logical consistency checks on submitted data by comparing totals across tables, years, and groups, and documented discrepancies.
+I contributed to the development of a standardized statistical database framework for Vietnam Social Security by designing data collection templates and validating the submitted data. My contributions included:
+
+- Designing approximately 180 tables across 15 Excel workbooks, building on an existing World Bank template and revising them in response to feedback from the International Labour Organization (ILO).
+- Developing an Excel macro to organize the workbooks, preparing bilingual (English and Vietnamese) table specifications, and documenting meetings with counterpart agencies.
+- Conducting logical consistency checks on submitted data by comparing totals across tables, years, and groups, and documenting discrepancies.
 
 </details>
 
@@ -93,8 +105,9 @@ I contributed to the development of a standardized statistical database framewor
 <details markdown="1">
 <summary style="cursor:pointer;"><em>Responsibilities</em></summary>
 
-My responsibilities included:<br>
-- Analysing branch performance to determine staffing needs and managing recruitment for the head office and a network of more than 200 branches across Vietnam. 
+My responsibilities included:
+
+- Analyzing branch performance to determine staffing needs and managing recruitment for the head office and a network of more than 200 branches across Vietnam.
 - Screening applications and recruiting employees, handling approximately 5,000 applications and recruiting around 1,000 new employees annually.
 - Contributing directly to the design of the bank’s recruitment software.
 - Developing succession plans and proposing branch manager appointments.
@@ -109,11 +122,12 @@ My responsibilities included:<br>
 <details markdown="1">
 <summary style="cursor:pointer;"><em>Responsibilities</em></summary>
 
-My responsibilities included:<br>
+My responsibilities included:
+
 - Developing business plans and evaluating the performance of the bank and its branches using large-scale banking datasets.
-- Proposed a restructuring plan for underperforming regional branches. 
+- Proposing a restructuring plan for an underperforming regional branch, which the Board of Directors approved.
 - Evaluating and recommending business plans for branches, monitoring and ranking their performance.
-- Analysing branch-level loan portfolios, lending rates, and collateral to identify potential risks.
+- Analyzing branch-level loan portfolios, lending rates, and collateral to identify potential risks.
 
 </details>
 
@@ -125,10 +139,11 @@ My responsibilities included:<br>
 <details markdown="1">
 <summary style="cursor:pointer;"><em>Responsibilities</em></summary>
 
-My responsibilities included:<br>
+My responsibilities included:
+
 - Assessing corporate clients’ creditworthiness based on their financial statements and business plans.
 - Recommending credit limits, interest rates, and loan disbursements, and assessing collateral values.
-- Collaborating with other departments on foreign exchange, trade finance, and international payments. 
+- Collaborating with other departments on foreign exchange, trade finance, and international payments.
 
 </details>
 
