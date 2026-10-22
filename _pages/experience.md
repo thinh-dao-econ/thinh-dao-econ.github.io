@@ -136,6 +136,7 @@ My responsibilities included:<br>
 
 ## Skills
 
-R, Python, Julia, MATLAB, LaTeX, Excel, and VBA. Languages: Vietnamese (native) and English (fluent).
+Programming: R, Python, Julia, MATLAB, LaTeX, and Excel VBA. <br>
+Languages: Vietnamese (native) and English (fluent).
 
 [Download my CV]({{ site.baseurl }}/files/Thinh_Dao_CV.pdf)
