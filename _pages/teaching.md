@@ -5,21 +5,16 @@ permalink: /teaching/
 author_profile: true
 ---
 
-<style>
-.page__title { display: none; }
-.page__content table, .page__content th, .page__content td { font-size: 1em; }
-</style>
+<style> .page__title { display: none; } table, table th, table td { font-size: 1rem !important; } </style>
 
 {% include base_path %}
 
 <div style="display:flex; justify-content:space-between; flex-wrap:wrap; align-items:baseline;">
 <h2 style="margin:0;">Teaching Assistant, Department of Economics, York University</h2>
-<span>2021–present</span>
+<span><strong>2021–present<strong></span>
 </div>
 
-I have been a teaching assistant at York University since Fall 2021, across 14 different courses in macroeconomics, international trade, quantitative methods and microeconomics.
-
-## Courses
+I have served as a teaching assistant at York University since Fall 2021, supporting instruction across 14 courses in macroeconomics, international trade, quantitative methods, and microeconomics. Courses include: 
 
 | Subject | Course | Terms\* |
 |---|---|---|
