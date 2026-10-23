@@ -88,7 +88,7 @@ I reviewed and commented on the World Bank’s baseline pension projection note 
 <details markdown="1">
 <summary style="cursor:pointer;"><em>Learn more</em></summary>
 
-I contributed to the development of a standardized statistical database framework for Vietnam Social Security by designing data collection templates and validating the submitted data. My contributions included:
+I contributed to developing a standardized statistical database framework for Vietnam Social Security to support the World Bank's analysis by designing data collection templates and validating submitted data. My contributions included:
 
 - Designing approximately 180 tables across 15 Excel workbooks, building on an existing World Bank template and revising them in response to feedback from the International Labour Organization (ILO).
 - Developing an Excel macro to organize the workbooks, preparing bilingual (English and Vietnamese) table specifications, and documenting meetings with counterpart agencies.
