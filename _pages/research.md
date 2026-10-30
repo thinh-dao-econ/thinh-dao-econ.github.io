@@ -75,3 +75,5 @@ One or two sentences describing the project.
 **2024**
 
 - Development and Policies Research Center (DEPOCEN) Workshop, Hanoi, Vietnam.
+
+[My CV](/files/Thinh_Dao_CV.pdf){: .btn .btn--primary .btn--large target="_blank" rel="noopener noreferrer"}
