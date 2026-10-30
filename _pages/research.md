@@ -21,7 +21,7 @@ details > ul { margin-top: 0 !important; }
 
 ## Job Market Paper
 
-<div class="res-head"> <a href="{{ site.baseurl }}/files/Thinh_Dao_JMP_Oct30_2026.pdf" target="_blank" rel="noopener noreferrer">Size-dependent Subsidies and Financial Frictions: The Case of Vietnam's Lending-rate Cap for SMEs</a> </div>
+<div class="res-head"> <a href="{{ site.baseurl }}/files/Thinh_Dao_JMP.pdf" target="_blank" rel="noopener noreferrer">Size-dependent Subsidies and Financial Frictions: The Case of Vietnam's Lending-rate Cap for SMEs</a> </div>
 
 <details markdown="1">
 <summary style="cursor:pointer;"><em>Abstract</em></summary>
@@ -32,7 +32,7 @@ Motivated by a policy in Vietnam that capped short-term lending rates for small 
 
 ## Working Paper
 
-<div class="res-head"> <a href="{{ site.baseurl }}/files/Thinh_Dao_Misallocation_in_Vietnam_Feb2026.pdf" target="_blank" rel="noopener noreferrer">Misallocation in Vietnam: A Structural Analysis Across Industries and Ownership Structures</a> </div>
+<div class="res-head"> <a href="{{ site.baseurl }}/files/Thinh_Dao_Misallocation_in_Vietnam.pdf" target="_blank" rel="noopener noreferrer">Misallocation in Vietnam: A Structural Analysis Across Industries and Ownership Structures</a> </div>
 
 <details markdown="1">
 <summary style="cursor:pointer;"><em>Abstract</em></summary>
