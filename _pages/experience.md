@@ -148,5 +148,4 @@ My responsibilities included:
 
 </details> <br>
 
-
 [My CV](/files/Thinh_Dao_CV.pdf){: .btn .btn--primary .btn--large target="_blank" rel="noopener noreferrer"}
