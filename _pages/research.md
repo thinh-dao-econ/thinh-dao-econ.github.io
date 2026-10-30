@@ -1,11 +1,12 @@
 ---
 layout: single
-title: ""
+title: "Research"
 permalink: /research/
 author_profile: true
 ---
 
 <style>
+.page__title { display: none; }
 .exp-topics { margin: 0.3em 0 0; }
 details > summary { margin-bottom: 0.4em; }
 details > p { margin-bottom: 0.3em !important; }
