@@ -71,7 +71,7 @@ One or two sentences describing the project.
 - The 2024 Asia Meeting of the Econometric Society, Ho Chi Minh City, Vietnam.
 - The 58th Canadian Economics Association Annual Conference, Toronto, Canada.
 
-## Invited Seminars:
+## Invited Seminars
 
 **2024**
 
