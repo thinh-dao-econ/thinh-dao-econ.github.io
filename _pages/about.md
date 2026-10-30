@@ -13,6 +13,9 @@ Coming from a developing country, I am motivated by the question of how these ec
 
 **I am on the 2026–27 job market.**
 
+**Committee:**<br>
+<a href="http://www.tassoadamopoulos.com/" target="_blank" rel="noopener noreferrer">Tasso Adamopoulos</a> (Supervisor), <a href="https://sites.google.com/site/chaoransite/" target="_blank" rel="noopener noreferrer">Chaoran Chen</a> and <a href="https://sites.google.com/site/georgestefanidis1988/" target="_blank" rel="noopener noreferrer">Georgios Stefanidis</a>
+
 **Job Market Paper:**<br>
 <a href="{{ site.baseurl }}/files/Thinh_Dao_JMP.pdf" target="_blank" rel="noopener noreferrer">Size-dependent Subsidies and Financial Frictions: The Case of Vietnam's Lending-rate Cap for SMEs</a>
 
