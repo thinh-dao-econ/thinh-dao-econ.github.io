@@ -1,8 +1,6 @@
 ---
-layout: archive
-title: "CV"
 permalink: /cv/
-author_profile: true
+redirect_to: /files/Thinh_Dao_CV.pdf
 redirect_from:
   - /resume
 ---
