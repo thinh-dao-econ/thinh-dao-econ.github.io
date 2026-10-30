@@ -14,7 +14,7 @@ Coming from a developing country, I am motivated by the question of how these ec
 **I am on the 2026–27 job market.**
 
 **Job Market Paper:**<br>
-<a href="{{ site.baseurl }}/files/Thinh_Dao_JMP_Oct30_2026.pdf" target="_blank" rel="noopener noreferrer">Size-dependent Subsidies and Financial Frictions: The Case of Vietnam’s Lending-rate Cap for SMEs</a>
+<a href="{{ site.baseurl }}/files/Thinh_Dao_JMP.pdf" target="_blank" rel="noopener noreferrer">Size-dependent Subsidies and Financial Frictions: The Case of Vietnam’s Lending-rate Cap for SMEs</a>
 <details markdown="1" style="margin-top: -0.8em; margin-bottom: 1.5em;">
 <summary>Abstract</summary>
 
@@ -28,7 +28,7 @@ Learn more about my [research](/research/).<br>
 
 **Contact:** [thinhdao@yorku.ca](mailto:thinhdao@yorku.ca) <br>
 
-[My CV](/files/Thinh_Dao_CV_Oct30_2026.pdf){: .btn .btn--primary .btn--large target="_blank" rel="noopener noreferrer"}
+[My CV](/files/Thinh_Dao_CV.pdf){: .btn .btn--primary .btn--large target="_blank" rel="noopener noreferrer"}
 
 
 
