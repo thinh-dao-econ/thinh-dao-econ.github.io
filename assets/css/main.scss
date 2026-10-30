@@ -37,7 +37,7 @@
     "layout/sidebar"
 ;
 /* All screens: rectangular photo */
-.author__avatar img { border-radius: 0 !important; }
+.author__avatar img { border-radius: 10px !important; }
 
 /* Wide screens (sidebar beside the content), same breakpoint as the theme: 925px */
 @media (min-width: 57.8125em) {
