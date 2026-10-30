@@ -40,3 +40,5 @@ I have served as a teaching assistant at York University since Fall 2021, suppor
 \* Terms: F = Fall, W = Winter, S = Summer. <br>
 \*\* ECON 1000 and ECON 1010 are metacourses at York University, with a large number of participants. As the administrative TA, I compiled grades from the other TAs and uploaded final grades for all students. I also managed the online portal, tracing student activity logs for quizzes and online assignments when technical problems occurred, and helping test new features before release.
 </div>
+
+[My CV](/files/Thinh_Dao_CV.pdf){: .btn .btn--primary .btn--large target="_blank" rel="noopener noreferrer"}
