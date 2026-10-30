@@ -36,7 +36,7 @@ I have served as a teaching assistant at York University since Fall 2021, suppor
 | **Other** | ECON 3880 The Economics of Cryptocurrencies | F22 |
 | | ECON 3411 Managerial Economics and Strategy | W25 |
 
-<div markdown="1" style="font-size:0.85em;">
+<div markdown="1" style="font-size:0.85em; margin-bottom: 1.5em;">
 \* Terms: F = Fall, W = Winter, S = Summer. <br>
 \*\* ECON 1000 and ECON 1010 are metacourses at York University, with a large number of participants. As the administrative TA, I compiled grades from the other TAs and uploaded final grades for all students. I also managed the online portal, tracing student activity logs for quizzes and online assignments when technical problems occurred, and helping test new features before release.
 </div>
