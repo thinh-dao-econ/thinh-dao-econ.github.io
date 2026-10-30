@@ -147,5 +147,4 @@ My responsibilities included:
 - Collaborating with other departments on foreign exchange, trade finance, and international payments.
 
 </details> <br>
-
 [My CV](/files/Thinh_Dao_CV.pdf){: .btn .btn--primary .btn--large target="_blank" rel="noopener noreferrer"}
