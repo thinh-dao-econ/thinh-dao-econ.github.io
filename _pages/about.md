@@ -30,7 +30,6 @@ Motivated by a policy in Vietnam that capped short-term lending rates for small 
 Macroeconomics, Misallocation, Financial Frictions, Economic Development and Growth.<br>
 Learn more about my [research](/research/).<br>
 
-**Contact:** [thinhdao@yorku.ca](mailto:thinhdao@yorku.ca) [My CV](/files/Thinh_Dao_CV.pdf){: .btn .btn--primary .btn--large target="_blank" rel="noopener noreferrer"}
-
+**Contact:** [thinhdao@yorku.ca](mailto:thinhdao@yorku.ca) [My CV](/files/Thinh_Dao_CV.pdf){: .btn .btn--primary .btn--large style="margin-left: 1.5em;" target="_blank" rel="noopener noreferrer"}
 
 
