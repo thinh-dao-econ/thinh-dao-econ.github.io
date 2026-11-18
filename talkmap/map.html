@@ -20,9 +20,9 @@
     <body>
 
     	<div id="map"></div>
-    	<span>Mouse over a cluster to see the bounds of its children and click a cluster to zoom to those bounds</span>
+    	<p><strong>Where I have presented my research</strong> (click a marker for details) &middot; <a href="/research/">Back to Research</a></p>
     	<script type="text/javascript">
-    		var tiles = L.tileLayer('http://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer/tile/{z}/{y}/{x}', {
+    		var tiles = L.tileLayer('https://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer/tile/{z}/{y}/{x}', {
               maxZoom: 18,
               attribution: 'Tiles &copy; Esri &mdash; Source: Esri, DeLorme, NAVTEQ, USGS, Intermap, iPC, NRCAN, Esri Japan, METI, Esri China (Hong Kong), Esri (Thailand), TomTom, 2012'
                     }),
@@ -35,12 +35,12 @@
     		for (var i = 0; i < addressPoints.length; i++) {
     			var a = addressPoints[i];
     			var title = a[0];
-    			var marker = L.marker(new L.LatLng(a[1], a[2]), { title: title });
+    			var marker = L.marker(new L.LatLng(a[1], a[2]), { title: title.split('<br />')[0].replace(/<[^>]+>/g, '') });
     			marker.bindPopup(title);
     			markers.addLayer(marker);
     		}
     		map.addLayer(markers);
-    		map.zoomIn();
+    		map.fitBounds(markers.getBounds(), {padding: [40, 40]});
     	</script>
     </body>
     </html>
