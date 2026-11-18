@@ -77,4 +77,4 @@ One or two sentences describing the project.
 
 - Development and Policies Research Center (DEPOCEN) Workshop, Hanoi, Vietnam.
 
-[Presentation map](/talkmap/map.html){: .btn .btn--inverse .btn--large}  [My CV](/files/Thinh_Dao_CV.pdf){: .btn .btn--primary .btn--large style="margin-left: 1.5em;" target="_blank" rel="noopener noreferrer"}
+[Presentation map](/talkmap/map.html){: .btn .btn--primary .btn--large target="_blank" rel="noopener noreferrer"}  [My CV](/files/Thinh_Dao_CV.pdf){: .btn .btn--primary .btn--large style="margin-left: 1.5em;" target="_blank" rel="noopener noreferrer"}
