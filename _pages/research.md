@@ -79,4 +79,4 @@ One or two sentences describing the project.
 
 View all my presentations on a <a href="{{ site.baseurl }}/talkmap/map.html">map</a>.
 
-[My CV](/files/Thinh_Dao_CV.pdf){: .btn .btn--primary .btn--large target="_blank" rel="noopener noreferrer"}
+[My CV](/files/Thinh_Dao_CV.pdf){: .btn .btn--primary .btn--large target="_blank" rel="noopener noreferrer"} [Presentation map](/talkmap/map.html){: .btn .btn--inverse .btn--large}
