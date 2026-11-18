@@ -9,7 +9,7 @@ redirect_from:
 
 I am a PhD candidate in Economics at York University.
 
-Coming from a developing country, I am motivated by the question of how these economies can achieve sustained growth by making better use of their existing resources. My research focuses on macroeconomic development, particularly resource misallocation and the role of financial frictions and government policies in shaping resource allocation and aggregate productivity. My work combines quantitative modelling with empirical analysis to quantify the productive potential of economies.
+Coming from Vietnam, I am motivated by the question of how developing economies can increase output by using their existing resources more effectively. Specifically, my research focuses on the role of government policies and financial frictions in shaping aggregate productivity. Using micro-level data, my work combines empirical analysis and quantitative general equilibrium models to measure the productivity gains from reallocating  resources efficiently and to quantify the effects of policies on aggregate outcomes.
 
 **I am on the 2026–27 job market.**
 
