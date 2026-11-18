@@ -109,7 +109,7 @@ I contributed to developing a standardized statistical data framework for Vietna
 My responsibilities included:
 
 - Analyzing branch performance to determine staffing needs and managing recruitment for the head office and a network of more than 200 branches across Vietnam.
-- Screening applications and recruiting employees, handling approximately 5,000 applications and recruiting around 1,000 new employees annually.
+- Building Excel templates to screen approximately 5,000 applications a year against approved criteria and to manage candidate information, recruiting around 1,000 new employees annually.
 - Contributing directly to the design of the bank’s recruitment software.
 - Developing succession plans and proposing branch manager appointments.
 
