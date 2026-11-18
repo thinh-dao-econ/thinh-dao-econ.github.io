@@ -60,9 +60,10 @@
   .author__urls-wrapper button { margin-top: 8px; }
 }
 
-/* Justified text only where the column is wide enough */
+/* Justified text where the column is wide enough: no split words, slightly smaller text, link lines left-aligned */
 @media (min-width: 48em) {
-  .page__content p, .page__content li { text-align: justify !important; hyphens: auto; -webkit-hyphens: auto; }
+  .page__content p, .page__content li { text-align: justify !important; hyphens: manual; -webkit-hyphens: manual; font-size: 0.9em !important; }
+  .page__content p:has(a), .page__content li:has(a) { text-align: left !important; }
 }
 
 /* Footer: hide the Follow / GitHub / Feed block */
