@@ -1,6 +1,6 @@
 ---
 permalink: /experience/
-title: "Professional Experience"
+title: ""
 author_profile: true
 ---
 
