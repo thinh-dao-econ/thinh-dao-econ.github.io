@@ -17,7 +17,7 @@ table th { text-align: center !important; }
 <h2 style="margin:0;">Teaching Assistant, York University</h2> <span><strong>2021–present</strong></span>
 </div>
 
-I have served as a teaching assistant at York University since Fall 2021, supporting instruction across 14 courses in macroeconomics, microeconomics, quantitative methods, and  international trade. Courses include: 
+I have served as a teaching assistant at York University since Fall 2021, supporting instruction across 14 courses in macroeconomics, microeconomics, quantitative methods, and international trade. In Fall 2026, I also teach in-class tutorials in ECON 2500 Introductory Statistics for Economists I, where I explain course material and walk students through exercise solutions. Courses include:
 
 | Subject | Course | Terms\* |
 |---|---|---|
